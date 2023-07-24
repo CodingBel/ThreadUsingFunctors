@@ -1,6 +1,9 @@
 #include <iostream>
 #include <thread>
 
+// This program illustrates how we could create threads using fucntors
+// we could also overload the operator() function. 
+
 class Abel{
 	char printChar; 
 public: 
